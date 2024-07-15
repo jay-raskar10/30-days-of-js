@@ -3,7 +3,7 @@
 
 A initiative by our sir Hitesh Choudhary to master Javascript in 30 Days by solving daily challenges which gets complex day by day.
 
-**Day 1**
+## Day 1
 ### Variables & Dataypes 
 
 * Understanding Variable declaration & Constant declaration
